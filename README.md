@@ -10,7 +10,7 @@ Experienced with 2 years in the IT industry, passionate about building scalable 
 - 🔭 Currently working on MERN stack and Salesforce LWC projects  
 - 🌱 Learning: TypeScript, Next.js, and advanced Apex techniques  
 - 💬 Ask me about full-stack web development, Salesforce automations, or Git/GitHub workflows  
-- 📫 Reach me at: **sravankumarbodakonda7093@gmail.com**  
+- 📫 Reach me at: **bodakondasravankumar@gmail.com**  
 - ⚡ Fun fact: I enjoy blending clean code with creative UI, especially inspired by anime & Ghibli design styles
 
 ---
