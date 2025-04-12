@@ -44,8 +44,6 @@ Experienced with 2 years in the IT industry, passionate about building scalable 
 
 ## 📊 GitHub Stats (Dark Theme)
 
-![Sravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sravankumarbodakonda&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sravankumarbodakonda&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sravankumarbodakonda&layout=compact&theme=tokyonight)
 
 ---
