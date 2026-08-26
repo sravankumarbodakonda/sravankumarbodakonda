@@ -1,51 +1,87 @@
-# 👋 Hi, I'm Sravan Kumar Bodakonda
+<div align="center">
 
-💻 Full Stack Developer | ⚡ Salesforce Developer  
-Experienced with 2 years in the IT industry, passionate about building scalable applications and delivering efficient business solutions.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05060a,100:0f4c46&height=220&section=header&text=Sravan%20Kumar%20Bodakonda&fontSize=38&fontColor=2dd4bf&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%40%20Goldman%20Sachs&descAlignY=58&descSize=18&descColor=f2f3f5" alt="header" />
 
----
+<a href="https://github.com/sravankumarbodakonda">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Goldman+Sachs;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Angular;Building+Scalable+Financial+Platforms;Full-Stack+Engineer+%7C+4%2B+Years+Experience" alt="Typing SVG" />
+</a>
 
-## 🚀 About Me
+<br/>
 
-- 🔭 Currently working on MERN stack and Salesforce LWC projects  
-- 🌱 Learning: TypeScript, Next.js, and advanced Apex techniques  
-- 💬 Ask me about full-stack web development, Salesforce automations, or Git/GitHub workflows  
-- 📫 Reach me at: **bodakondasravankumar@gmail.com**  
-- ⚡ Fun fact: I enjoy blending clean code with creative UI, especially inspired by anime & Ghibli design styles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravankumarbodakonda7093/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bodakondasravankumar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=000000)](https://my-portfolio-sravankumarbodakondas-projects.vercel.app)
+[![Followers](https://img.shields.io/github/followers/sravankumarbodakonda?style=for-the-badge&color=2dd4bf&labelColor=05060a)](https://github.com/sravankumarbodakonda)
 
----
+</div>
 
-## 🛠 Tech Stack
+<br/>
 
-**Frontend**:  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+## About Me
 
-**Backend & Database**:  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+- 💼 **Associate, Software Engineering** @ **Goldman Sachs** — building enterprise Asset & Wealth Management applications
+- ⚙️ 4+ years developing, enhancing, and maintaining scalable software across global financial platforms
+- 🧰 Full-stack across **Java, Spring Boot, React, Angular, TypeScript** — from REST/microservices backends to production UIs
+- 🔄 Own features end-to-end: requirements → design → coding → testing → UAT → deployment → production support
+- 🌱 Background spans HIPAA-compliant healthcare systems, insurance platforms, and financial services
+- 📫 Reach me at **bodakondasravankumar@gmail.com**
 
-**Salesforce**:  
-![Apex](https://img.shields.io/badge/Apex-00A1E0?logo=salesforce&logoColor=white)  
-![LWC](https://img.shields.io/badge/LWC-00A1E0?logo=salesforce&logoColor=white)  
-![SOQL](https://img.shields.io/badge/SOQL-009EDB?logo=salesforce&logoColor=white)
+<br/>
 
-**Tools**:  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+## Tech Stack
 
----
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,ts,js,html,css&theme=dark" alt="languages" />
 
-## 📊 GitHub Stats (Dark Theme)
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,redux,angular,nextjs&theme=dark" alt="frontend" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sravankumarbodakonda&layout=compact&theme=tokyonight)
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,graphql&theme=dark" alt="backend" />
 
----
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,mongodb,redis&theme=dark" alt="databases" />
 
-⭐️ *Let's connect and collaborate on exciting tech projects!*
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,gitlab,gradle,maven&theme=dark" alt="cloud and devops" />
+
+**Tools & Practices**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,jira,confluence&theme=dark" alt="tools" />
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sravankumarbodakonda&hide_border=true&background=05060a&stroke=2dd4bf&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=f2f3f5&currStreakNum=f2f3f5&sideNums=f2f3f5&dates=9aa1ae" alt="GitHub Streak Stats" />
+</div>
+
+> Live GitHub stats and trophy cards are temporarily omitted — the public `github-readme-stats` / `github-profile-trophy` hosted instances are currently down (Vercel deployment paused/disabled from overuse). Self-hosting them is a one-click "Deploy to Vercel" away; ask if you'd like them added back.
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sravankumarbodakonda/sravankumarbodakonda/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sravankumarbodakonda/sravankumarbodakonda/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sravankumarbodakonda/sravankumarbodakonda/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sravankumarbodakonda&color=2dd4bf&style=for-the-badge&label=Profile+Views)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c46,100:05060a&height=120&section=footer" alt="footer" />
+
+</div>
