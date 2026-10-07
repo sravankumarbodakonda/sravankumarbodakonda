@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05060a,100:0f4c46&height=220&section=header&text=Sravan%20Kumar%20Bodakonda&fontSize=38&fontColor=2dd4bf&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%40%20Goldman%20Sachs&descAlignY=58&descSize=18&descColor=f2f3f5" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05060a,100:0f4c46&height=220&section=header&text=Sravan%20Kumar&fontSize=38&fontColor=2dd4bf&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%40%20Goldman%20Sachs&descAlignY=58&descSize=18&descColor=f2f3f5" alt="header" />
 
 <a href="https://github.com/sravankumarbodakonda">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Goldman+Sachs;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Angular;Building+Scalable+Financial+Platforms;Full-Stack+Engineer+%7C+4%2B+Years+Experience" alt="Typing SVG" />
